@@ -1,5 +1,5 @@
 # 2023-02
 
-Print('Feb 2023')
+print('Feb 2023')
 
 # Ck
